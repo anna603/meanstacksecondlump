@@ -1,0 +1,40 @@
+h1{
+
+
+
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+
+
+}
+
+table{
+margin: auto;
+
+}
+td{
+height: 500px;
+padding: 100px;
+border: 5px solid white;
+
+
+
+}
+
+
+#one{
+    background-color: blue;
+}
+#two{
+    background-color: green;
+}
+#three{
+    background-color: greenyellow;
+}
+#four{
+    background-color: red;
+}
+
+#five{
+    background-color: olive;
+}

@@ -1,0 +1,78 @@
+/* tag name or id or class name{
+
+
+property: value;
+property1: value2;
+
+
+
+
+
+} */
+div{
+    margin: auto;
+}
+
+body {
+
+background-image: url("ipl.png");
+background-repeat: no-repeat;
+
+background-color:rgb(114, 245, 66) ;
+
+
+}
+
+h1{
+
+color: red;
+
+}
+#one{
+
+color:rgb(66, 132, 245) ;
+
+}
+div{
+
+border-style:solid;
+border-color:azure;
+border: width 5px;
+background-color:yellow;
+
+width: 50%;
+
+}
+#mi{
+
+border-style:solid ;
+border-color:black;
+border: width 5px;
+background-color:blue;
+width: 50%;
+
+
+
+}
+
+
+
+.team{
+
+    border-style:solid ;
+    border-color:violet;
+    border: width 5px;
+    background-color:red;
+    width: 50%;
+    
+
+    
+
+
+
+}
+
+
+
+
+
